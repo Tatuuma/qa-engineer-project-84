@@ -65,7 +65,6 @@ test-cases:
     status: fail
 
 bugreports:
-
   - summary: |
       Поле поиска при вводе несуществующего товара по ключевому слову не выдает сообщение об ошибке
     environment: |
