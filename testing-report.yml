@@ -61,4 +61,4 @@
     
 - summary: |
     Проверка возможности оформления заказа
-  status: pass
+  status: fail
